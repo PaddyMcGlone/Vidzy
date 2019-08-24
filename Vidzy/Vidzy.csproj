@@ -50,6 +50,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Migrations\201908241855367_AddingInitialMigration.cs" />
+    <Compile Include="Migrations\201908241855367_AddingInitialMigration.Designer.cs">
+      <DependentUpon>201908241855367_AddingInitialMigration.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Genre.cs" />
     <Compile Include="Models\Video.cs" />
@@ -60,6 +64,11 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201908241855367_AddingInitialMigration.resx">
+      <DependentUpon>201908241855367_AddingInitialMigration.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

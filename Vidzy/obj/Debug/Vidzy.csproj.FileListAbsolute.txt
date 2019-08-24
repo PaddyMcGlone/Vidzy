@@ -10,3 +10,5 @@ C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.CoreCom
 C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.CopyComplete
 C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.exe
 C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.pdb
+C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.AddingInitialMigration.resources
+C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.GenerateResource.cache
