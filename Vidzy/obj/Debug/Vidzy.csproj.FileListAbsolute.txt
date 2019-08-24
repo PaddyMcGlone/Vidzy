@@ -1,0 +1,12 @@
+C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\bin\Debug\Vidzy.exe.config
+C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\bin\Debug\Vidzy.exe
+C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\bin\Debug\Vidzy.pdb
+C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\bin\Debug\EntityFramework.dll
+C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\bin\Debug\EntityFramework.xml
+C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.csprojAssemblyReference.cache
+C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.CoreCompileInputs.cache
+C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.CopyComplete
+C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.exe
+C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.pdb
