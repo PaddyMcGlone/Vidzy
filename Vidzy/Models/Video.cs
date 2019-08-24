@@ -15,5 +15,7 @@ namespace Vidzy.Models
         public DateTime ReleaseDate { get; set; }
 
         public Genre Genre { get; set; }
+
+        public Classification classification { get; set; }
     }
 }

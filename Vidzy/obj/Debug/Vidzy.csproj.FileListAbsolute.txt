@@ -15,3 +15,4 @@ C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.Generat
 C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.UpdateVideoAndGenreTableRelationships.resources
 C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.SeedGenreTable.resources
 C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.UpdateVideosModifyGenreRelationship.resources
+C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.AddClassificationToVideos.resources
