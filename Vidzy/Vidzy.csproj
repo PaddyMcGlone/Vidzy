@@ -54,6 +54,14 @@
     <Compile Include="Migrations\201908241855367_AddingInitialMigration.Designer.cs">
       <DependentUpon>201908241855367_AddingInitialMigration.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201908241859248_UpdateVideoAndGenreTableRelationships.cs" />
+    <Compile Include="Migrations\201908241859248_UpdateVideoAndGenreTableRelationships.Designer.cs">
+      <DependentUpon>201908241859248_UpdateVideoAndGenreTableRelationships.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908241900314_SeedGenreTable.cs" />
+    <Compile Include="Migrations\201908241900314_SeedGenreTable.Designer.cs">
+      <DependentUpon>201908241900314_SeedGenreTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Genre.cs" />
     <Compile Include="Models\Video.cs" />
@@ -68,6 +76,12 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201908241855367_AddingInitialMigration.resx">
       <DependentUpon>201908241855367_AddingInitialMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908241859248_UpdateVideoAndGenreTableRelationships.resx">
+      <DependentUpon>201908241859248_UpdateVideoAndGenreTableRelationships.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908241900314_SeedGenreTable.resx">
+      <DependentUpon>201908241900314_SeedGenreTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

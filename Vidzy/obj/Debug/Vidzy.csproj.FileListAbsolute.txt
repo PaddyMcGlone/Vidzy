@@ -12,3 +12,5 @@ C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.exe
 C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.pdb
 C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.AddingInitialMigration.resources
 C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.GenerateResource.cache
+C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.UpdateVideoAndGenreTableRelationships.resources
+C:\Users\paddy\Documents\GitHub\Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.SeedGenreTable.resources
