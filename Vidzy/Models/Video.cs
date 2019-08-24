@@ -14,6 +14,6 @@ namespace Vidzy.Models
 
         public DateTime ReleaseDate { get; set; }
 
-        public ICollection<Genre> Genres { get; set; }
+        public Genre Genre { get; set; }
     }
 }
